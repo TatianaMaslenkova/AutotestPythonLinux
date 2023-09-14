@@ -1,0 +1,7 @@
+folderin: /home/user/tst
+folderout: /home/user/out
+folderext: /home/user/folder1
+folderext3: /home/user/folder3
+count: 5
+bs: 10K
+folderbad: /home/user/folder2
