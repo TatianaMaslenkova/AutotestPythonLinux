@@ -5,3 +5,5 @@ folderext3: /home/user/folder3
 count: 5
 bs: 10K
 folderbad: /home/user/folder2
+type: zip
+logfolder: /home/user/log_folder
