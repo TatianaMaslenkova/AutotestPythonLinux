@@ -1,5 +1,5 @@
-import yaml
 from ssh_checkers import ssh_checkout, upload_files, ssh_getout
+import yaml
 import pytest
 
 with open('config.yaml') as f:
@@ -26,8 +26,8 @@ class TestPositive:
 
     def test_add_archive(self, make_folder, clear_folder, make_files, start_time):  # a создали архив
         res_add = ssh_checkout(data["ip"], data["user"], data["passwd"],
-                               f'cd {data["folderin"]}; 7z a -t{data["type"]} '
-                               f'{data["folderout"]}/arx2', "Everything is Ok")
+                               f'cd {data["folderin"]}; 7z a -t{data["type"]} {data["folderout"]}/arx2',
+                               "Everything is Ok")
         res_ls = ssh_checkout(data["ip"], data["user"], data["passwd"], f'ls {data["folderout"]}',
                               f'arx2.{data["type"]}')
         self.save_log(start_time, "log_positive.txt")
@@ -90,7 +90,7 @@ class TestPositive:
                                 f'cd {data["folderout"]}; 7z x arx2.{data["type"]} -o{data["folderext3"]} -y',
                                 "Everything is Ok"))
         for item in make_files:
-            res.append(ssh_checkout(data["ip"], data["user"], data["passwd"], f'ls {data["folderext3"]}', item))
+            res.append(ssh_checkout(data["ip"], data["user"], data["passwd"], f'ls {data["folderext"]}', item))
         self.save_log(start_time, "log_positive.txt")
         assert all(res), "test_check_x_files FAIL"
 

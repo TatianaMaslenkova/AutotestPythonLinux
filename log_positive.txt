@@ -1,0 +1,278 @@
+сен 21 17:43:50 userpc snapd-desktop-i[32183]: Detected new session 640 at /org/freedesktop/login1/session/_3640
+сен 21 17:43:51 userpc snapd-desktop-i[32183]: Detected new session 641 at /org/freedesktop/login1/session/_3641
+сен 21 17:43:53 userpc dbus-daemon[31393]: [session uid=1001 pid=31393] Activating via systemd: service name='org.freedesktop.Tracker3.Miner.Extract' unit='tracker-extract-3.service' requested by ':1.6' (uid=1001 pid=31432 comm="/usr/libexec/tracker-miner-fs-3 " label="unconfined")
+сен 21 17:43:53 userpc systemd[31352]: Starting Tracker metadata extractor...
+сен 21 17:43:54 userpc snapd-desktop-i[32183]: Detected new session 642 at /org/freedesktop/login1/session/_3642
+сен 21 17:43:55 userpc dbus-daemon[31393]: [session uid=1001 pid=31393] Successfully activated service 'org.freedesktop.Tracker3.Miner.Extract'
+сен 21 17:43:55 userpc systemd[31352]: Started Tracker metadata extractor.
+сен 21 17:43:55 userpc sudo[33033]:    user2 : PWD=/home/user2 ; USER=root ; COMMAND=/usr/bin/dpkg -i /home/user2/p7zip-full.deb
+сен 21 17:43:55 userpc sudo[33033]: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1001)
+сен 21 17:43:55 userpc sudo[33033]: pam_unix(sudo:session): session closed for user root
+сен 21 17:43:56 userpc snapd-desktop-i[32183]: Detected new session 643 at /org/freedesktop/login1/session/_3643
+сен 21 17:43:58 userpc sudo[33077]:    user2 : PWD=/home/user2 ; USER=root ; COMMAND=/usr/bin/dpkg -s p7zip-full
+сен 21 17:43:58 userpc sudo[33077]: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1001)
+сен 21 17:43:58 userpc sudo[33077]: pam_unix(sudo:session): session closed for user root
+сен 21 17:43:59 userpc snapd-desktop-i[32183]: Detected new session 644 at /org/freedesktop/login1/session/_3644
+Hint: You are currently not seeing messages from other users and the system.
+      Users in groups 'adm', 'systemd-journal' can see all messages.
+      Pass -q to turn off this notice.
+сен 21 17:44:17 userpc snapd-desktop-i[32183]: Detected new session 654 at /org/freedesktop/login1/session/_3654
+сен 21 17:44:18 userpc snapd-desktop-i[32183]: Detected new session 655 at /org/freedesktop/login1/session/_3655
+сен 21 17:44:20 userpc snapd-desktop-i[32183]: Detected new session 656 at /org/freedesktop/login1/session/_3656
+Hint: You are currently not seeing messages from other users and the system.
+      Users in groups 'adm', 'systemd-journal' can see all messages.
+      Pass -q to turn off this notice.
+сен 21 17:44:35 userpc snapd-desktop-i[32183]: Detected new session 665 at /org/freedesktop/login1/session/_3665
+сен 21 17:44:37 userpc snapd-desktop-i[32183]: Detected new session 666 at /org/freedesktop/login1/session/_3666
+сен 21 17:44:38 userpc snapd-desktop-i[32183]: Detected new session 667 at /org/freedesktop/login1/session/_3667
+сен 21 17:44:40 userpc snapd-desktop-i[32183]: Detected new session 668 at /org/freedesktop/login1/session/_3668
+сен 21 17:44:42 userpc snapd-desktop-i[32183]: Detected new session 669 at /org/freedesktop/login1/session/_3669
+сен 21 17:44:43 userpc snapd-desktop-i[32183]: Detected new session 670 at /org/freedesktop/login1/session/_3670
+сен 21 17:44:45 userpc snapd-desktop-i[32183]: Detected new session 671 at /org/freedesktop/login1/session/_3671
+сен 21 17:44:47 userpc snapd-desktop-i[32183]: Detected new session 672 at /org/freedesktop/login1/session/_3672
+Hint: You are currently not seeing messages from other users and the system.
+      Users in groups 'adm', 'systemd-journal' can see all messages.
+      Pass -q to turn off this notice.
+сен 21 17:45:05 userpc snapd-desktop-i[32183]: Detected new session 682 at /org/freedesktop/login1/session/_3682
+сен 21 17:45:06 userpc snapd-desktop-i[32183]: Detected new session 683 at /org/freedesktop/login1/session/_3683
+сен 21 17:45:08 userpc snapd-desktop-i[32183]: Detected new session 684 at /org/freedesktop/login1/session/_3684
+сен 21 17:45:09 userpc snapd-desktop-i[32183]: Detected new session 685 at /org/freedesktop/login1/session/_3685
+сен 21 17:45:10 userpc snapd-desktop-i[32183]: Detected new session 686 at /org/freedesktop/login1/session/_3686
+сен 21 17:45:12 userpc snapd-desktop-i[32183]: Detected new session 687 at /org/freedesktop/login1/session/_3687
+сен 21 17:45:13 userpc snapd-desktop-i[32183]: Detected new session 688 at /org/freedesktop/login1/session/_3688
+сен 21 17:45:14 userpc snapd-desktop-i[32183]: Detected new session 689 at /org/freedesktop/login1/session/_3689
+сен 21 17:45:15 userpc snapd-desktop-i[32183]: Detected new session 690 at /org/freedesktop/login1/session/_3690
+сен 21 17:45:17 userpc snapd-desktop-i[32183]: Detected new session 691 at /org/freedesktop/login1/session/_3691
+сен 21 17:45:18 userpc snapd-desktop-i[32183]: Detected new session 692 at /org/freedesktop/login1/session/_3692
+Hint: You are currently not seeing messages from other users and the system.
+      Users in groups 'adm', 'systemd-journal' can see all messages.
+      Pass -q to turn off this notice.
+сен 21 17:45:33 userpc snapd-desktop-i[32183]: Detected new session 703 at /org/freedesktop/login1/session/_3703
+сен 21 17:45:34 userpc snapd-desktop-i[32183]: Detected new session 704 at /org/freedesktop/login1/session/_3704
+сен 21 17:45:36 userpc snapd-desktop-i[32183]: Detected new session 705 at /org/freedesktop/login1/session/_3705
+сен 21 17:45:37 userpc snapd-desktop-i[32183]: Detected new session 706 at /org/freedesktop/login1/session/_3706
+сен 21 17:45:39 userpc snapd-desktop-i[32183]: Detected new session 707 at /org/freedesktop/login1/session/_3707
+сен 21 17:45:40 userpc snapd-desktop-i[32183]: Detected new session 708 at /org/freedesktop/login1/session/_3708
+сен 21 17:45:41 userpc snapd-desktop-i[32183]: Detected new session 709 at /org/freedesktop/login1/session/_3709
+сен 21 17:45:43 userpc snapd-desktop-i[32183]: Detected new session 710 at /org/freedesktop/login1/session/_3710
+сен 21 17:45:44 userpc snapd-desktop-i[32183]: Detected new session 711 at /org/freedesktop/login1/session/_3711
+сен 21 17:45:45 userpc snapd-desktop-i[32183]: Detected new session 712 at /org/freedesktop/login1/session/_3712
+Hint: You are currently not seeing messages from other users and the system.
+      Users in groups 'adm', 'systemd-journal' can see all messages.
+      Pass -q to turn off this notice.
+сен 21 17:45:59 userpc snapd-desktop-i[32183]: Detected new session 721 at /org/freedesktop/login1/session/_3721
+сен 21 17:46:00 userpc snapd-desktop-i[32183]: Detected new session 722 at /org/freedesktop/login1/session/_3722
+сен 21 17:46:02 userpc snapd-desktop-i[32183]: Detected new session 723 at /org/freedesktop/login1/session/_3723
+сен 21 17:46:03 userpc snapd-desktop-i[32183]: Detected new session 724 at /org/freedesktop/login1/session/_3724
+сен 21 17:46:05 userpc snapd-desktop-i[32183]: Detected new session 725 at /org/freedesktop/login1/session/_3725
+сен 21 17:46:06 userpc snapd-desktop-i[32183]: Detected new session 726 at /org/freedesktop/login1/session/_3726
+сен 21 17:46:08 userpc snapd-desktop-i[32183]: Detected new session 727 at /org/freedesktop/login1/session/_3727
+сен 21 17:46:09 userpc snapd-desktop-i[32183]: Detected new session 728 at /org/freedesktop/login1/session/_3728
+Hint: You are currently not seeing messages from other users and the system.
+      Users in groups 'adm', 'systemd-journal' can see all messages.
+      Pass -q to turn off this notice.
+сен 21 17:46:21 userpc snapd-desktop-i[32183]: Detected new session 737 at /org/freedesktop/login1/session/_3737
+сен 21 17:46:22 userpc snapd-desktop-i[32183]: Detected new session 738 at /org/freedesktop/login1/session/_3738
+сен 21 17:46:23 userpc snapd-desktop-i[32183]: Detected new session 739 at /org/freedesktop/login1/session/_3739
+Hint: You are currently not seeing messages from other users and the system.
+      Users in groups 'adm', 'systemd-journal' can see all messages.
+      Pass -q to turn off this notice.
+сен 21 17:46:38 userpc snapd-desktop-i[32183]: Detected new session 750 at /org/freedesktop/login1/session/_3750
+сен 21 17:46:39 userpc snapd-desktop-i[32183]: Detected new session 751 at /org/freedesktop/login1/session/_3751
+сен 21 17:46:40 userpc snapd-desktop-i[32183]: Detected new session 752 at /org/freedesktop/login1/session/_3752
+Hint: You are currently not seeing messages from other users and the system.
+      Users in groups 'adm', 'systemd-journal' can see all messages.
+      Pass -q to turn off this notice.
+сен 21 17:46:44 userpc snapd-desktop-i[32183]: Detected new session 755 at /org/freedesktop/login1/session/_3755
+Hint: You are currently not seeing messages from other users and the system.
+      Users in groups 'adm', 'systemd-journal' can see all messages.
+      Pass -q to turn off this notice.
+сен 21 17:50:05 userpc snapd-desktop-i[38577]: Detected new session 793 at /org/freedesktop/login1/session/_3793
+сен 21 17:50:06 userpc snapd-desktop-i[38577]: Detected new session 794 at /org/freedesktop/login1/session/_3794
+сен 21 17:50:06 userpc dbus-daemon[37969]: [session uid=1001 pid=37969] Activating via systemd: service name='org.freedesktop.Tracker3.Miner.Extract' unit='tracker-extract-3.service' requested by ':1.4' (uid=1001 pid=38017 comm="/usr/libexec/tracker-miner-fs-3 " label="unconfined")
+сен 21 17:50:06 userpc systemd[37937]: Starting Tracker metadata extractor...
+сен 21 17:50:07 userpc snapd-desktop-i[38577]: Detected new session 795 at /org/freedesktop/login1/session/_3795
+сен 21 17:50:08 userpc dbus-daemon[37969]: [session uid=1001 pid=37969] Successfully activated service 'org.freedesktop.Tracker3.Miner.Extract'
+сен 21 17:50:08 userpc systemd[37937]: Started Tracker metadata extractor.
+сен 21 17:50:08 userpc sudo[39643]:    user2 : PWD=/home/user2 ; USER=root ; COMMAND=/usr/bin/dpkg -i /home/user2/p7zip-full.deb
+сен 21 17:50:08 userpc sudo[39643]: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1001)
+сен 21 17:50:11 userpc sudo[39643]: pam_unix(sudo:session): session closed for user root
+сен 21 17:50:11 userpc snapd-desktop-i[38577]: Detected new session 796 at /org/freedesktop/login1/session/_3796
+сен 21 17:50:12 userpc sudo[39715]:    user2 : PWD=/home/user2 ; USER=root ; COMMAND=/usr/bin/dpkg -s p7zip-full
+сен 21 17:50:12 userpc sudo[39715]: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1001)
+сен 21 17:50:12 userpc sudo[39715]: pam_unix(sudo:session): session closed for user root
+сен 21 17:50:13 userpc snapd-desktop-i[38577]: Detected new session 797 at /org/freedesktop/login1/session/_3797
+Hint: You are currently not seeing messages from other users and the system.
+      Users in groups 'adm', 'systemd-journal' can see all messages.
+      Pass -q to turn off this notice.
+сен 21 17:50:25 userpc snapd-desktop-i[38577]: Detected new session 807 at /org/freedesktop/login1/session/_3807
+сен 21 17:50:27 userpc snapd-desktop-i[38577]: Detected new session 808 at /org/freedesktop/login1/session/_3808
+сен 21 17:50:28 userpc snapd-desktop-i[38577]: Detected new session 809 at /org/freedesktop/login1/session/_3809
+Hint: You are currently not seeing messages from other users and the system.
+      Users in groups 'adm', 'systemd-journal' can see all messages.
+      Pass -q to turn off this notice.
+сен 21 17:50:39 userpc snapd-desktop-i[38577]: Detected new session 818 at /org/freedesktop/login1/session/_3818
+сен 21 17:50:41 userpc snapd-desktop-i[38577]: Detected new session 819 at /org/freedesktop/login1/session/_3819
+сен 21 17:50:42 userpc snapd-desktop-i[38577]: Detected new session 820 at /org/freedesktop/login1/session/_3820
+сен 21 17:50:43 userpc snapd-desktop-i[38577]: Detected new session 821 at /org/freedesktop/login1/session/_3821
+сен 21 17:50:44 userpc snapd-desktop-i[38577]: Detected new session 822 at /org/freedesktop/login1/session/_3822
+сен 21 17:50:45 userpc snapd-desktop-i[38577]: Detected new session 823 at /org/freedesktop/login1/session/_3823
+сен 21 17:50:46 userpc snapd-desktop-i[38577]: Detected new session 824 at /org/freedesktop/login1/session/_3824
+сен 21 17:50:48 userpc snapd-desktop-i[38577]: Detected new session 825 at /org/freedesktop/login1/session/_3825
+Hint: You are currently not seeing messages from other users and the system.
+      Users in groups 'adm', 'systemd-journal' can see all messages.
+      Pass -q to turn off this notice.
+сен 21 17:50:59 userpc snapd-desktop-i[38577]: Detected new session 835 at /org/freedesktop/login1/session/_3835
+сен 21 17:51:00 userpc snapd-desktop-i[38577]: Detected new session 836 at /org/freedesktop/login1/session/_3836
+сен 21 17:51:01 userpc snapd-desktop-i[38577]: Detected new session 837 at /org/freedesktop/login1/session/_3837
+сен 21 17:51:02 userpc snapd-desktop-i[38577]: Detected new session 838 at /org/freedesktop/login1/session/_3838
+сен 21 17:51:03 userpc snapd-desktop-i[38577]: Detected new session 839 at /org/freedesktop/login1/session/_3839
+сен 21 17:51:04 userpc snapd-desktop-i[38577]: Detected new session 840 at /org/freedesktop/login1/session/_3840
+сен 21 17:51:05 userpc snapd-desktop-i[38577]: Detected new session 841 at /org/freedesktop/login1/session/_3841
+сен 21 17:51:07 userpc snapd-desktop-i[38577]: Detected new session 842 at /org/freedesktop/login1/session/_3842
+сен 21 17:51:08 userpc snapd-desktop-i[38577]: Detected new session 843 at /org/freedesktop/login1/session/_3843
+сен 21 17:51:09 userpc snapd-desktop-i[38577]: Detected new session 844 at /org/freedesktop/login1/session/_3844
+сен 21 17:51:10 userpc snapd-desktop-i[38577]: Detected new session 845 at /org/freedesktop/login1/session/_3845
+Hint: You are currently not seeing messages from other users and the system.
+      Users in groups 'adm', 'systemd-journal' can see all messages.
+      Pass -q to turn off this notice.
+сен 21 17:51:22 userpc snapd-desktop-i[38577]: Detected new session 855 at /org/freedesktop/login1/session/_3855
+сен 21 17:51:23 userpc snapd-desktop-i[38577]: Detected new session 856 at /org/freedesktop/login1/session/_3856
+сен 21 17:51:24 userpc snapd-desktop-i[38577]: Detected new session 857 at /org/freedesktop/login1/session/_3857
+сен 21 17:51:25 userpc snapd-desktop-i[38577]: Detected new session 858 at /org/freedesktop/login1/session/_3858
+сен 21 17:51:26 userpc snapd-desktop-i[38577]: Detected new session 859 at /org/freedesktop/login1/session/_3859
+сен 21 17:51:27 userpc snapd-desktop-i[38577]: Detected new session 860 at /org/freedesktop/login1/session/_3860
+сен 21 17:51:29 userpc snapd-desktop-i[38577]: Detected new session 861 at /org/freedesktop/login1/session/_3861
+сен 21 17:51:30 userpc snapd-desktop-i[38577]: Detected new session 862 at /org/freedesktop/login1/session/_3862
+сен 21 17:51:31 userpc snapd-desktop-i[38577]: Detected new session 863 at /org/freedesktop/login1/session/_3863
+сен 21 17:51:32 userpc snapd-desktop-i[38577]: Detected new session 864 at /org/freedesktop/login1/session/_3864
+сен 21 17:51:33 userpc snapd-desktop-i[38577]: Detected new session 865 at /org/freedesktop/login1/session/_3865
+Hint: You are currently not seeing messages from other users and the system.
+      Users in groups 'adm', 'systemd-journal' can see all messages.
+      Pass -q to turn off this notice.
+сен 21 17:51:43 userpc snapd-desktop-i[38577]: Detected new session 874 at /org/freedesktop/login1/session/_3874
+сен 21 17:51:45 userpc snapd-desktop-i[38577]: Detected new session 875 at /org/freedesktop/login1/session/_3875
+сен 21 17:51:46 userpc snapd-desktop-i[38577]: Detected new session 876 at /org/freedesktop/login1/session/_3876
+сен 21 17:51:47 userpc snapd-desktop-i[38577]: Detected new session 877 at /org/freedesktop/login1/session/_3877
+сен 21 17:51:48 userpc snapd-desktop-i[38577]: Detected new session 878 at /org/freedesktop/login1/session/_3878
+сен 21 17:51:49 userpc snapd-desktop-i[38577]: Detected new session 879 at /org/freedesktop/login1/session/_3879
+сен 21 17:51:50 userpc snapd-desktop-i[38577]: Detected new session 880 at /org/freedesktop/login1/session/_3880
+сен 21 17:51:51 userpc snapd-desktop-i[38577]: Detected new session 881 at /org/freedesktop/login1/session/_3881
+Hint: You are currently not seeing messages from other users and the system.
+      Users in groups 'adm', 'systemd-journal' can see all messages.
+      Pass -q to turn off this notice.
+сен 21 17:52:00 userpc snapd-desktop-i[38577]: Detected new session 889 at /org/freedesktop/login1/session/_3889
+сен 21 17:52:01 userpc snapd-desktop-i[38577]: Detected new session 890 at /org/freedesktop/login1/session/_3890
+сен 21 17:52:03 userpc snapd-desktop-i[38577]: Detected new session 891 at /org/freedesktop/login1/session/_3891
+сен 21 17:52:04 userpc snapd-desktop-i[38577]: Detected new session 892 at /org/freedesktop/login1/session/_3892
+Hint: You are currently not seeing messages from other users and the system.
+      Users in groups 'adm', 'systemd-journal' can see all messages.
+      Pass -q to turn off this notice.
+сен 21 17:52:18 userpc snapd-desktop-i[38577]: Detected new session 902 at /org/freedesktop/login1/session/_3902
+сен 21 17:52:19 userpc snapd-desktop-i[38577]: Detected new session 903 at /org/freedesktop/login1/session/_3903
+сен 21 17:52:20 userpc snapd-desktop-i[38577]: Detected new session 904 at /org/freedesktop/login1/session/_3904
+сен 21 17:52:22 userpc snapd-desktop-i[38577]: Detected new session 905 at /org/freedesktop/login1/session/_3905
+Hint: You are currently not seeing messages from other users and the system.
+      Users in groups 'adm', 'systemd-journal' can see all messages.
+      Pass -q to turn off this notice.
+сен 21 17:52:25 userpc snapd-desktop-i[38577]: Detected new session 907 at /org/freedesktop/login1/session/_3907
+сен 21 17:52:26 userpc snapd-desktop-i[38577]: Detected new session 908 at /org/freedesktop/login1/session/_3908
+Hint: You are currently not seeing messages from other users and the system.
+      Users in groups 'adm', 'systemd-journal' can see all messages.
+      Pass -q to turn off this notice.
+сен 21 17:54:09 userpc snapd-desktop-i[45250]: Detected new session 946 at /org/freedesktop/login1/session/_3946
+сен 21 17:54:10 userpc snapd-desktop-i[45250]: Detected new session 947 at /org/freedesktop/login1/session/_3947
+сен 21 17:54:11 userpc dbus-daemon[44596]: [session uid=1001 pid=44596] Activating via systemd: service name='org.freedesktop.Tracker3.Miner.Extract' unit='tracker-extract-3.service' requested by ':1.4' (uid=1001 pid=44645 comm="/usr/libexec/tracker-miner-fs-3 " label="unconfined")
+сен 21 17:54:11 userpc systemd[44567]: Starting Tracker metadata extractor...
+сен 21 17:54:12 userpc dbus-daemon[44596]: [session uid=1001 pid=44596] Successfully activated service 'org.freedesktop.Tracker3.Miner.Extract'
+сен 21 17:54:12 userpc systemd[44567]: Started Tracker metadata extractor.
+сен 21 17:54:13 userpc snapd-desktop-i[45250]: Detected new session 948 at /org/freedesktop/login1/session/_3948
+сен 21 17:54:13 userpc sudo[46264]:    user2 : PWD=/home/user2 ; USER=root ; COMMAND=/usr/bin/dpkg -i /home/user2/p7zip-full.deb
+сен 21 17:54:13 userpc sudo[46264]: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1001)
+сен 21 17:54:16 userpc sudo[46264]: pam_unix(sudo:session): session closed for user root
+сен 21 17:54:17 userpc snapd-desktop-i[45250]: Detected new session 949 at /org/freedesktop/login1/session/_3949
+сен 21 17:54:18 userpc sudo[46335]:    user2 : PWD=/home/user2 ; USER=root ; COMMAND=/usr/bin/dpkg -s p7zip-full
+сен 21 17:54:18 userpc sudo[46335]: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1001)
+сен 21 17:54:18 userpc sudo[46335]: pam_unix(sudo:session): session closed for user root
+сен 21 17:54:19 userpc snapd-desktop-i[45250]: Detected new session 950 at /org/freedesktop/login1/session/_3950
+Hint: You are currently not seeing messages from other users and the system.
+      Users in groups 'adm', 'systemd-journal' can see all messages.
+      Pass -q to turn off this notice.
+сен 21 17:54:32 userpc snapd-desktop-i[45250]: Detected new session 960 at /org/freedesktop/login1/session/_3960
+сен 21 17:54:34 userpc snapd-desktop-i[45250]: Detected new session 961 at /org/freedesktop/login1/session/_3961
+сен 21 17:54:35 userpc snapd-desktop-i[45250]: Detected new session 962 at /org/freedesktop/login1/session/_3962
+Hint: You are currently not seeing messages from other users and the system.
+      Users in groups 'adm', 'systemd-journal' can see all messages.
+      Pass -q to turn off this notice.
+сен 21 17:54:46 userpc snapd-desktop-i[45250]: Detected new session 970 at /org/freedesktop/login1/session/_3970
+сен 21 17:54:47 userpc snapd-desktop-i[45250]: Detected new session 971 at /org/freedesktop/login1/session/_3971
+сен 21 17:54:48 userpc snapd-desktop-i[45250]: Detected new session 972 at /org/freedesktop/login1/session/_3972
+сен 21 17:54:50 userpc snapd-desktop-i[45250]: Detected new session 973 at /org/freedesktop/login1/session/_3973
+сен 21 17:54:51 userpc snapd-desktop-i[45250]: Detected new session 974 at /org/freedesktop/login1/session/_3974
+сен 21 17:54:52 userpc snapd-desktop-i[45250]: Detected new session 975 at /org/freedesktop/login1/session/_3975
+сен 21 17:54:53 userpc snapd-desktop-i[45250]: Detected new session 976 at /org/freedesktop/login1/session/_3976
+сен 21 17:54:54 userpc snapd-desktop-i[45250]: Detected new session 977 at /org/freedesktop/login1/session/_3977
+сен 21 17:54:56 userpc snapd-desktop-i[45250]: Detected new session 978 at /org/freedesktop/login1/session/_3978
+Hint: You are currently not seeing messages from other users and the system.
+      Users in groups 'adm', 'systemd-journal' can see all messages.
+      Pass -q to turn off this notice.
+сен 21 17:55:10 userpc snapd-desktop-i[45250]: Detected new session 988 at /org/freedesktop/login1/session/_3988
+сен 21 17:55:11 userpc snapd-desktop-i[45250]: Detected new session 989 at /org/freedesktop/login1/session/_3989
+сен 21 17:55:12 userpc snapd-desktop-i[45250]: Detected new session 990 at /org/freedesktop/login1/session/_3990
+сен 21 17:55:14 userpc snapd-desktop-i[45250]: Detected new session 991 at /org/freedesktop/login1/session/_3991
+сен 21 17:55:15 userpc snapd-desktop-i[45250]: Detected new session 992 at /org/freedesktop/login1/session/_3992
+сен 21 17:55:17 userpc snapd-desktop-i[45250]: Detected new session 993 at /org/freedesktop/login1/session/_3993
+сен 21 17:55:18 userpc snapd-desktop-i[45250]: Detected new session 994 at /org/freedesktop/login1/session/_3994
+сен 21 17:55:19 userpc snapd-desktop-i[45250]: Detected new session 995 at /org/freedesktop/login1/session/_3995
+сен 21 17:55:20 userpc snapd-desktop-i[45250]: Detected new session 996 at /org/freedesktop/login1/session/_3996
+сен 21 17:55:21 userpc snapd-desktop-i[45250]: Detected new session 997 at /org/freedesktop/login1/session/_3997
+сен 21 17:55:23 userpc snapd-desktop-i[45250]: Detected new session 998 at /org/freedesktop/login1/session/_3998
+Hint: You are currently not seeing messages from other users and the system.
+      Users in groups 'adm', 'systemd-journal' can see all messages.
+      Pass -q to turn off this notice.
+сен 21 17:55:37 userpc snapd-desktop-i[45250]: Detected new session 1008 at /org/freedesktop/login1/session/_31008
+сен 21 17:55:38 userpc snapd-desktop-i[45250]: Detected new session 1009 at /org/freedesktop/login1/session/_31009
+сен 21 17:55:39 userpc snapd-desktop-i[45250]: Detected new session 1010 at /org/freedesktop/login1/session/_31010
+сен 21 17:55:40 userpc snapd-desktop-i[45250]: Detected new session 1011 at /org/freedesktop/login1/session/_31011
+сен 21 17:55:42 userpc snapd-desktop-i[45250]: Detected new session 1012 at /org/freedesktop/login1/session/_31012
+сен 21 17:55:43 userpc snapd-desktop-i[45250]: Detected new session 1013 at /org/freedesktop/login1/session/_31013
+сен 21 17:55:45 userpc snapd-desktop-i[45250]: Detected new session 1014 at /org/freedesktop/login1/session/_31014
+сен 21 17:55:46 userpc snapd-desktop-i[45250]: Detected new session 1015 at /org/freedesktop/login1/session/_31015
+сен 21 17:55:48 userpc snapd-desktop-i[45250]: Detected new session 1016 at /org/freedesktop/login1/session/_31016
+сен 21 17:55:49 userpc snapd-desktop-i[45250]: Detected new session 1017 at /org/freedesktop/login1/session/_31017
+сен 21 17:55:51 userpc snapd-desktop-i[45250]: Detected new session 1018 at /org/freedesktop/login1/session/_31018
+Hint: You are currently not seeing messages from other users and the system.
+      Users in groups 'adm', 'systemd-journal' can see all messages.
+      Pass -q to turn off this notice.
+сен 21 17:56:02 userpc snapd-desktop-i[45250]: Detected new session 1026 at /org/freedesktop/login1/session/_31026
+сен 21 17:56:03 userpc snapd-desktop-i[45250]: Detected new session 1027 at /org/freedesktop/login1/session/_31027
+сен 21 17:56:04 userpc snapd-desktop-i[45250]: Detected new session 1028 at /org/freedesktop/login1/session/_31028
+сен 21 17:56:06 userpc snapd-desktop-i[45250]: Detected new session 1029 at /org/freedesktop/login1/session/_31029
+сен 21 17:56:07 userpc snapd-desktop-i[45250]: Detected new session 1030 at /org/freedesktop/login1/session/_31030
+сен 21 17:56:09 userpc snapd-desktop-i[45250]: Detected new session 1031 at /org/freedesktop/login1/session/_31031
+сен 21 17:56:10 userpc snapd-desktop-i[45250]: Detected new session 1032 at /org/freedesktop/login1/session/_31032
+сен 21 17:56:11 userpc snapd-desktop-i[45250]: Detected new session 1033 at /org/freedesktop/login1/session/_31033
+сен 21 17:56:13 userpc snapd-desktop-i[45250]: Detected new session 1034 at /org/freedesktop/login1/session/_31034
+Hint: You are currently not seeing messages from other users and the system.
+      Users in groups 'adm', 'systemd-journal' can see all messages.
+      Pass -q to turn off this notice.
+сен 21 17:56:24 userpc snapd-desktop-i[45250]: Detected new session 1042 at /org/freedesktop/login1/session/_31042
+сен 21 17:56:25 userpc snapd-desktop-i[45250]: Detected new session 1043 at /org/freedesktop/login1/session/_31043
+сен 21 17:56:26 userpc snapd-desktop-i[45250]: Detected new session 1044 at /org/freedesktop/login1/session/_31044
+сен 21 17:56:28 userpc snapd-desktop-i[45250]: Detected new session 1045 at /org/freedesktop/login1/session/_31045
+Hint: You are currently not seeing messages from other users and the system.
+      Users in groups 'adm', 'systemd-journal' can see all messages.
+      Pass -q to turn off this notice.
+сен 21 17:56:43 userpc snapd-desktop-i[45250]: Detected new session 1055 at /org/freedesktop/login1/session/_31055
+сен 21 17:56:44 userpc snapd-desktop-i[45250]: Detected new session 1056 at /org/freedesktop/login1/session/_31056
+сен 21 17:56:46 userpc snapd-desktop-i[45250]: Detected new session 1057 at /org/freedesktop/login1/session/_31057
+Hint: You are currently not seeing messages from other users and the system.
+      Users in groups 'adm', 'systemd-journal' can see all messages.
+      Pass -q to turn off this notice.
+сен 21 17:56:52 userpc systemd[44567]: snap.snapd-desktop-integration.snapd-desktop-integration.service: Scheduled restart job, restart counter is at 1.
+сен 21 17:56:52 userpc systemd[44567]: Stopped Service for snap application snapd-desktop-integration.snapd-desktop-integration.
+сен 21 17:56:52 userpc systemd[44567]: snap.snapd-desktop-integration.snapd-desktop-integration.service: Consumed 5.792s CPU time.
+сен 21 17:56:52 userpc systemd[44567]: Started Service for snap application snapd-desktop-integration.snapd-desktop-integration.
+Hint: You are currently not seeing messages from other users and the system.
+      Users in groups 'adm', 'systemd-journal' can see all messages.
+      Pass -q to turn off this notice.
